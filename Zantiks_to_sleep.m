@@ -1,5 +1,6 @@
 %% Transforms Zantiks speed data spreadsheets into sleep data variables 
-%% v1_Raffaele_Sarnataro Please cite its source: Sarnataro et al. 2024, bioRxiv (https://doi.org/10.1101/2024.02.23.581770)
+%% v1_Raffaele_Sarnataro 
+%% Please cite its source: Sarnataro et al. 2024, bioRxiv (https://doi.org/10.1101/2024.02.23.581770)
 
 %% Import table
 % Copies your data from the Zantiks .csv output from cell H5
